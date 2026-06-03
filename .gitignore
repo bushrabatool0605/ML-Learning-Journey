@@ -1,0 +1,14 @@
+# Virtual Environment (Sab se zaroori - isko github par nahi bhejna)
+streamlitvenv/
+# Python ka apna kachra (Compiled files)
+**/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebooks ka cache aur checkpoints
+.ipynb_checkpoints/
+
+# OS specific files
+.DS_Store
+Thumbs.db
